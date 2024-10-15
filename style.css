@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
 html {
     scroll-behavior: smooth;
 }
 
 body {
-    font-family: 'Playpen Sans', cursive;
+  font-family: "Agdasima", sans-serif;
     margin: 0;
     padding: 0;
     background-color: #e8f0f2;
